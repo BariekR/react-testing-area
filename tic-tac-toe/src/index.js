@@ -5,13 +5,13 @@ import App from "./App";
 import ProductApp from "./ProductApp";
 
 const root = createRoot(document.getElementById("root"));
-/*root.render(
+root.render(
   <StrictMode>
     <App />
   </StrictMode>
-);*/
-root.render(
+);
+/*root.render(
   <StrictMode>
     <ProductApp />
   </StrictMode>
-);
+);*/
